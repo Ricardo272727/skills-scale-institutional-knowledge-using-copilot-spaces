@@ -302,7 +302,11 @@ Responsible for capturing, organizing, and distributing process knowledge to hel
 
 ---
 
+## Related checklists and templates
+- Release checklist: docs/release-checklist.md
+- Incident response checklist: docs/incident-response-checklist.md
+- Onboarding / knowledge capture checklist: docs/onboarding-checklist.md
+
 ## Using these personas
-- Add these personas to docs/octoacme-roles-and-personas.md to provide clearer ownership and decision paths.
-- Reference persona sections in relevant process docs (planning, release, incident, and risk sections).
-- Use personas as prompts in Copilot Spaces for role-specific guidance and scenario exercises.
+- Add these personas to docs referenced by planning, release, incident, and onboarding process docs.
+- Use persona sections as prompts in Copilot Spaces to provide role-specific guidance and exercises.
